@@ -1,0 +1,39 @@
+{
+   "token": "",
+   "prefix": "nime!",
+   "ownerIDS": [
+      "337663518952390656","1125031170422345738"
+   ],
+   "bannermusic": "https://cdn.discordapp.com/attachments/1019202620428128307/1020253766508875806/unknown.png",
+   "memer_api": "",
+   "status": {
+      "text": "nime!help",
+      "text2": "Nimetiyen",
+      "type": "PLAYING",
+      "url": "https://www.youtube.com/watch?v=-F-QJgC3lI8"
+   },
+   "clientsettings": {
+      "nodes": [
+         {
+            "host": "lava.link",
+            "port": 80,
+            "password": "youshallnotpass"
+         }
+      ]
+   },
+   "spotify": {
+      "clientSecret": "2e8ef57a93454b31b035569f64fea7c8",
+      "clientID": "40c5ee08678d4e60aef46bedc6761fd4"
+   },
+   "settings": {
+      "leaveOnEmpty_Channel": {
+         "enabled": true,
+         "time_delay": 3000
+      },
+      "LeaveOnEmpty_Queue": {
+         "enabled": true,
+         "time_delay": 3000
+      },
+      "selfDeaf": true
+   }
+}
